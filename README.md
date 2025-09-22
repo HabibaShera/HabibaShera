@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Habiba Shera</h1>
-<h4 align="left">I'm senior student at Mansoura University of CIS with a passion for data science. I have gained extensive experience in data analysis, machine learning, and deep learning through various projects and competitions on platforms such as Kaggle, Bayer, and E-Youth. I took internships in Surestart, Sumsung Innovation Camp, ShAI and NTI .Find out more about me & feel free to connect with me here:</h4>
+<h4 align="left">I'm a professional with over two years of experience in data analysis, machine learning, and deep learning, 
+bringing expertise in computer vision, natural language processing, and LLMs through various projects and 
+competitions. Additionally, I know SQL and NoSQL, as well as the fundamentals of AWS. Looking forward to 
+contributing my skills and experience to a well-reputed company.Find out more about me & feel free to connect with me here:</h4>
 
 <!-- img alt="DL" style="display:block; margin:auto;" src="https://th.bing.com/th/id/R.4b2db9fc4220cdb63e525dd5a5267f0c?rik=%2blD9MXEb2g2G4Q&riu=http%3a%2f%2fanalyticsinsight.b-cdn.net%2fwp-content%2fuploads%2f2020%2f03%2fAI_Animated.gif&ehk=77G%2bba9UEcx8ZG%2bZ2JGTfrLQamA6v4kDkaogc6nt9F4%3d&risl=&pid=ImgRaw&r=0"-->
 
